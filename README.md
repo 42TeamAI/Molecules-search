@@ -20,7 +20,7 @@ All solutions generally consist of the following steps:
 2. The set is evaluated for passing through all the conditions of the task
 3. lgK is considered for the set
 
-The Cat Boots model has been used in all our solutions to estimate the lgK value. You can find out exactly how the model trained in  ```CatBoost.ipynb```
+The CatBoost model has been used in all our solutions to estimate the lgK value. You can find out exactly how the model trained in  ```CatBoost.ipynb```
 
 The results of the work of various methods of generating molecules are presented below:
 
